@@ -1,2 +1,2 @@
 # linux_note
-比较好的资料收集
+比较好的linux kernel资料收集
