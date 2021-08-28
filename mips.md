@@ -1,0 +1,6 @@
+- mips汇编语言学习网站
+- https://chortle.ccsu.edu/AssemblyTutorial/index.html
+- mips官方网站  https://www.mips.com/products/classic/
+- https://www.cse.unsw.edu.au/~cs1521/18s2/notes/C/notes.html
+- http://spimsimulator.sourceforge.net/
+- https://www.cs.uregina.ca/Links/class-info/201/
