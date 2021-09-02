@@ -1,2 +1,3 @@
-# linux_note
-比较好的linux kernel资料收集
+# linux学习笔记
+- 个人收集较好的Linux学习网站
+- MIPS相关的学习资料
