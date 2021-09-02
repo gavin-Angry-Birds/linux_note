@@ -11,3 +11,4 @@
 - http://www.cs.nott.ac.uk/~psztxa/g51csa/
 - https://tams.informatik.uni-hamburg.de/applets/hades/webdemos/76-mips/01-intro/chapter.html
 - http://www.it.uu.se/education/course/homepage/os/vt18/
+- mips官方网站的mips教程 https://www.mips.com/develop/training-courses/mips-basic-training-course/
