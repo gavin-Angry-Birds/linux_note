@@ -5,3 +5,4 @@
 - http://spimsimulator.sourceforge.net/
 - https://www.cs.uregina.ca/Links/class-info/201/
 - https://www.quora.com/Can-I-take-a-name-of-some-good-book-to-learn-MIPS-assembly-language-programming
+- http://www.it.uu.se/education/course/homepage/os/vt18/ (操作系统学习)
