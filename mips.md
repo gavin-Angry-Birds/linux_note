@@ -7,6 +7,7 @@
 - https://www.quora.com/Can-I-take-a-name-of-some-good-book-to-learn-MIPS-assembly-language-programming
 - http://www.it.uu.se/education/course/homepage/os/vt18/ (操作系统学习)
 - http://pages.cs.wisc.edu/~larus/SPIM/spim.html
+- http://pages.cs.wisc.edu/~larus/spim.html
 - http://www.cs.nott.ac.uk/~psztxa/g51csa/
 - https://tams.informatik.uni-hamburg.de/applets/hades/webdemos/76-mips/01-intro/chapter.html
 - http://www.it.uu.se/education/course/homepage/os/vt18/
